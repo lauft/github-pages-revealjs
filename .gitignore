@@ -20,10 +20,12 @@ node_modules/reveal.js/dist/theme/*
 
 node_modules/reveal.js/dist/theme/fonts/*
 !node_modules/reveal.js/dist/theme/fonts/league-gothic/
+!node_modules/reveal.js/dist/theme/fonts/source-sans-pro/
 
 node_modules/reveal.js/plugin/*
 !node_modules/reveal.js/plugin/notes/
 !node_modules/reveal.js/plugin/highlight/
+!node_modules/reveal.js/plugin/markdown/
 
 node_modules/reveal.js/plugin/notes/*
 !node_modules/reveal.js/plugin/notes/notes.js
