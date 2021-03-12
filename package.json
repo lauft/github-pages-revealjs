@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start:slides": "web-dev-server --open"
+  },
+  "dependencies": {
+    "@web/dev-server": "^0.1.8",
+    "reveal.js": "^4.1.0"
+  }
+}
